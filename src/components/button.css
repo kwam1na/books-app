@@ -1,0 +1,3 @@
+.button:active {
+    outline: blue auto 5px; 
+}
